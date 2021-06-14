@@ -6,3 +6,4 @@ while ( m < 10):
     print ('{} x {} = {}'.format(n, m, n * m))
 else:
     print('=' * 15)
+    
