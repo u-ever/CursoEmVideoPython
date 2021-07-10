@@ -1,3 +1,3 @@
 # CursoEmVideoPython
 
-#Exercícios do Curso.
+### Exercícios do Curso em Vídeo de Python do Professor Gustavo Guanabara.
