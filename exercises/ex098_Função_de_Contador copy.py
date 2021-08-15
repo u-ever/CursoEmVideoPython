@@ -1,4 +1,5 @@
 from time import sleep
+from time import sleep
 
 
 def contador(inicio, fim, passo):
